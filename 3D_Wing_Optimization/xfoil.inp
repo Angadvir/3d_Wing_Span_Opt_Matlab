@@ -1,0 +1,21 @@
+PLOP
+G
+
+naca 0012
+
+
+oper
+re 1e+06
+Cl 0
+visc
+pacc
+
+
+cl 0
+dump xfoil_a00.000_dump.dat
+cpwr xfoil_a00.000_cpwr.dat
+pwrt
+xfoil_pwrt.dat
+plis
+
+quit
